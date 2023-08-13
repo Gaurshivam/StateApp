@@ -1,0 +1,31 @@
+.Container{
+    width: 100%;
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+.Top{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+button{
+    background-color: rgb(228, 14, 150);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.Main{
+    text-align: start;
+    margin: 40px;
+    padding-left: 260px;
+}
+
+h2{
+    color: rgb(228, 14, 150);
+}
